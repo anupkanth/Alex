@@ -1,7 +1,7 @@
 hi people
 hello
 new
-mouse
+mous
 keyboard
 book
 
